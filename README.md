@@ -27,6 +27,8 @@
     </li>
     <li>Certifique-se de que a biblioteca <code>requests</code> está instalada.
         <pre><code>pip install requests</code></pre>
+            <li>Certifique-se de que a biblioteca <code>colorama</code> está instalada.
+        <pre><code>pip install colorama</code></pre>
     </li>
 </ol>
 

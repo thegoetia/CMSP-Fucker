@@ -1,4 +1,4 @@
-<h1>CMSP Fucker</h1>
+<h1>CMSP Fucker (Não está mais funcionando!)</h1>
 
 <p>CMSP Fucker é um script em Python para verificar respostas a questões em tarefas do CMSP. O script recebe IDs de tarefa e questão do usuário e envia as respostas em formato JSON, formatando a resposta para o usuário.</p>
 <br>
